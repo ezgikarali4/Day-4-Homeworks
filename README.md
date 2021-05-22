@@ -14,6 +14,6 @@ Ardından projeye sağ tıklayıp Properties>Java Build Path>Libraries(üst men�
 Dosya linki
 https://cdn.discordapp.com/attachments/794909347750084638/841041481925263360/MERSISjar.rar
 
-                                                                                                                  explanation credits to ---> https://github.com/serdartkn
+                                                         explanation credits to ---> https://github.com/serdartkn
 
                                                                                             
